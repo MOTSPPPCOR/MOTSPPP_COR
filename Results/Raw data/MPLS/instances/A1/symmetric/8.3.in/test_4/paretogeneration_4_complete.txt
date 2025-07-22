@@ -1,0 +1,542 @@
+Rota: 0 2 5 6 4 1 
+custos da rota: 108 107 117 194 113 101 
+Tempos da rota: 158 224 222 170 220 183 
+Cities_colected: 
+City: 2 bonus 785 tempo 39
+City: 5 bonus 915 tempo 24
+City: 6 bonus 594 tempo 39
+City: 4 bonus 829 tempo 33
+City: 1 bonus 702 tempo 20
+passageiro 15 com origem 5, destino: 6 custo max: 364 tempo max: 427
+passageiro 20 com origem 5, destino: 6 custo max: 365 tempo max: 340
+Passageiros embarcados: 2
+Custo: 662
+Bonus: 3825
+Tempo: 1332
+ 
+
+Rota: 0 2 1 5 4 6 
+custos da rota: 108 161 223 143 194 101 
+Tempos da rota: 158 147 172 198 170 123 
+Cities_colected: 
+City: 2 bonus 785 tempo 39
+City: 1 bonus 702 tempo 20
+City: 5 bonus 915 tempo 24
+City: 4 bonus 829 tempo 33
+City: 6 bonus 594 tempo 39
+Passageiros embarcados: 0
+Custo: 930
+Bonus: 3825
+Tempo: 1123
+ 
+
+Rota: 0 2 1 4 5 6 
+custos da rota: 108 161 113 143 117 101 
+Tempos da rota: 158 147 220 198 222 123 
+Cities_colected: 
+City: 2 bonus 785 tempo 39
+City: 1 bonus 702 tempo 20
+City: 4 bonus 829 tempo 33
+City: 5 bonus 915 tempo 24
+City: 6 bonus 594 tempo 39
+passageiro 15 com origem 5, destino: 6 custo max: 364 tempo max: 427
+passageiro 20 com origem 5, destino: 6 custo max: 365 tempo max: 340
+Passageiros embarcados: 2
+Custo: 665
+Bonus: 3825
+Tempo: 1223
+ 
+
+Rota: 0 5 2 1 4 6 
+custos da rota: 240 107 161 113 194 101 
+Tempos da rota: 152 224 147 220 170 123 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+City: 2 bonus 785 tempo 39
+City: 1 bonus 702 tempo 20
+City: 4 bonus 829 tempo 33
+City: 6 bonus 594 tempo 39
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+Passageiros embarcados: 2
+Custo: 756
+Bonus: 3825
+Tempo: 1191
+ 
+
+Rota: 0 5 4 1 2 6 
+custos da rota: 240 143 113 161 177 101 
+Tempos da rota: 152 198 220 147 156 123 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+City: 4 bonus 829 tempo 33
+City: 1 bonus 702 tempo 20
+City: 2 bonus 785 tempo 39
+City: 6 bonus 594 tempo 39
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+Passageiros embarcados: 2
+Custo: 775
+Bonus: 3825
+Tempo: 1151
+ 
+
+Rota: 0 6 
+custos da rota: 101 101 
+Tempos da rota: 123 123 
+Cities_colected: 
+Nenhuma cidade coletada
+Passageiros embarcados: 0
+Custo: 202
+Bonus: 0
+Tempo: 246
+ 
+
+Rota: 0 7 
+custos da rota: 132 132 
+Tempos da rota: 134 134 
+Cities_colected: 
+Nenhuma cidade coletada
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 2
+Custo: 176
+Bonus: 0
+Tempo: 268
+ 
+
+Rota: 0 4 7 2 
+custos da rota: 150 114 247 108 
+Tempos da rota: 200 102 148 158 
+Cities_colected: 
+City: 4 bonus 829 tempo 33
+City: 7 bonus 466 tempo 29
+City: 2 bonus 785 tempo 39
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 2
+Custo: 382.333
+Bonus: 2080
+Tempo: 709
+ 
+
+Rota: 0 5 1 
+custos da rota: 240 223 101 
+Tempos da rota: 152 172 183 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+City: 1 bonus 702 tempo 20
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+Passageiros embarcados: 2
+Custo: 404
+Bonus: 1617
+Tempo: 551
+ 
+
+Rota: 0 1 4 6 
+custos da rota: 101 113 194 101 
+Tempos da rota: 183 220 170 123 
+Cities_colected: 
+City: 1 bonus 702 tempo 20
+City: 4 bonus 829 tempo 33
+City: 6 bonus 594 tempo 39
+Passageiros embarcados: 0
+Custo: 509
+Bonus: 2125
+Tempo: 788
+ 
+
+Rota: 0 6 2 
+custos da rota: 101 177 108 
+Tempos da rota: 123 156 158 
+Cities_colected: 
+City: 6 bonus 594 tempo 39
+City: 2 bonus 785 tempo 39
+Passageiros embarcados: 0
+Custo: 386
+Bonus: 1379
+Tempo: 515
+ 
+
+Rota: 0 5 7 1 
+custos da rota: 240 168 154 101 
+Tempos da rota: 152 174 155 183 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+City: 7 bonus 466 tempo 29
+City: 1 bonus 702 tempo 20
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+passageiro 50 com origem 7, destino: 0 custo max: 334 tempo max: 392
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 4
+Custo: 333
+Bonus: 2083
+Tempo: 737
+ 
+
+Rota: 0 5 3 
+custos da rota: 240 200 249 
+Tempos da rota: 152 126 169 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+City: 3 bonus 463 tempo 34
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+Passageiros embarcados: 2
+Custo: 529
+Bonus: 1378
+Tempo: 505
+ 
+
+Rota: 0 5 7 6 
+custos da rota: 240 168 202 101 
+Tempos da rota: 152 174 186 123 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+City: 7 bonus 466 tempo 29
+City: 6 bonus 594 tempo 39
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 4
+Custo: 349
+Bonus: 1975
+Tempo: 727
+ 
+
+Rota: 0 5 1 7 
+custos da rota: 240 223 154 132 
+Tempos da rota: 152 172 155 134 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+City: 1 bonus 702 tempo 20
+City: 7 bonus 466 tempo 29
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 4
+Custo: 501
+Bonus: 2083
+Tempo: 686
+ 
+
+Rota: 0 5 3 6 
+custos da rota: 240 200 120 101 
+Tempos da rota: 152 126 118 123 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+City: 3 bonus 463 tempo 34
+City: 6 bonus 594 tempo 39
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+passageiro 14 com origem 5, destino: 6 custo max: 357 tempo max: 359
+passageiro 15 com origem 5, destino: 6 custo max: 364 tempo max: 427
+Passageiros embarcados: 4
+Custo: 287.667
+Bonus: 1972
+Tempo: 616
+ 
+
+Rota: 0 7 5 1 
+custos da rota: 132 168 223 101 
+Tempos da rota: 134 174 172 183 
+Cities_colected: 
+City: 7 bonus 466 tempo 29
+City: 5 bonus 915 tempo 24
+City: 1 bonus 702 tempo 20
+passageiro 4 com origem 0, destino: 5 custo max: 236 tempo max: 395
+passageiro 5 com origem 0, destino: 5 custo max: 258 tempo max: 362
+Passageiros embarcados: 2
+Custo: 424
+Bonus: 2083
+Tempo: 736
+ 
+
+Rota: 0 5 6 
+custos da rota: 240 117 101 
+Tempos da rota: 152 222 123 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+City: 6 bonus 594 tempo 39
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+passageiro 15 com origem 5, destino: 6 custo max: 364 tempo max: 427
+passageiro 20 com origem 5, destino: 6 custo max: 365 tempo max: 340
+Passageiros embarcados: 4
+Custo: 220
+Bonus: 1509
+Tempo: 560
+ 
+
+Rota: 0 5 
+custos da rota: 240 240 
+Tempos da rota: 152 152 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+Passageiros embarcados: 2
+Custo: 320
+Bonus: 915
+Tempo: 328
+ 
+
+Rota: 0 4 
+custos da rota: 150 150 
+Tempos da rota: 200 200 
+Cities_colected: 
+City: 4 bonus 829 tempo 33
+Passageiros embarcados: 0
+Custo: 300
+Bonus: 829
+Tempo: 433
+ 
+
+Rota: 0 1 
+custos da rota: 101 101 
+Tempos da rota: 183 183 
+Cities_colected: 
+City: 1 bonus 702 tempo 20
+Passageiros embarcados: 0
+Custo: 202
+Bonus: 702
+Tempo: 386
+ 
+
+Rota: 0 2 
+custos da rota: 108 108 
+Tempos da rota: 158 158 
+Cities_colected: 
+City: 2 bonus 785 tempo 39
+Passageiros embarcados: 0
+Custo: 216
+Bonus: 785
+Tempo: 355
+ 
+
+Rota: 0 7 
+custos da rota: 132 132 
+Tempos da rota: 134 134 
+Cities_colected: 
+City: 7 bonus 466 tempo 29
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 2
+Custo: 176
+Bonus: 466
+Tempo: 297
+ 
+
+Rota: 0 6 
+custos da rota: 101 101 
+Tempos da rota: 123 123 
+Cities_colected: 
+City: 6 bonus 594 tempo 39
+Passageiros embarcados: 0
+Custo: 202
+Bonus: 594
+Tempo: 285
+ 
+
+Rota: 0 7 5 
+custos da rota: 132 168 240 
+Tempos da rota: 134 174 152 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 2
+Custo: 268
+Bonus: 915
+Tempo: 484
+ 
+
+Rota: 0 6 7 
+custos da rota: 101 202 132 
+Tempos da rota: 123 186 134 
+Cities_colected: 
+City: 6 bonus 594 tempo 39
+City: 7 bonus 466 tempo 29
+passageiro 23 com origem 6, destino: 7 custo max: 378 tempo max: 443
+passageiro 25 com origem 6, destino: 7 custo max: 367 tempo max: 401
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 4
+Custo: 212.333
+Bonus: 1060
+Tempo: 511
+ 
+
+Rota: 0 3 6 
+custos da rota: 249 120 101 
+Tempos da rota: 169 118 123 
+Cities_colected: 
+City: 3 bonus 463 tempo 34
+City: 6 bonus 594 tempo 39
+Passageiros embarcados: 0
+Custo: 470
+Bonus: 1057
+Tempo: 483
+ 
+
+Rota: 0 7 4 
+custos da rota: 132 114 150 
+Tempos da rota: 134 102 200 
+Cities_colected: 
+City: 7 bonus 466 tempo 29
+City: 4 bonus 829 tempo 33
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 2
+Custo: 220
+Bonus: 1295
+Tempo: 498
+ 
+
+Rota: 0 2 5 7 4 
+custos da rota: 108 107 168 114 150 
+Tempos da rota: 158 224 174 102 200 
+Cities_colected: 
+City: 2 bonus 785 tempo 39
+City: 5 bonus 915 tempo 24
+City: 7 bonus 466 tempo 29
+City: 4 bonus 829 tempo 33
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 2
+Custo: 471
+Bonus: 2995
+Tempo: 983
+ 
+
+Rota: 0 4 5 3 6 1 
+custos da rota: 150 143 200 120 234 101 
+Tempos da rota: 200 198 126 118 163 183 
+Cities_colected: 
+City: 4 bonus 829 tempo 33
+City: 5 bonus 915 tempo 24
+City: 6 bonus 594 tempo 39
+City: 1 bonus 702 tempo 20
+passageiro 15 com origem 5, destino: 6 custo max: 364 tempo max: 427
+passageiro 20 com origem 5, destino: 6 custo max: 365 tempo max: 340
+Passageiros embarcados: 2
+Custo: 734.667
+Bonus: 3040
+Tempo: 1104
+ 
+
+Rota: 0 5 2 6 3 7 1 
+custos da rota: 240 107 177 120 171 154 101 
+Tempos da rota: 152 224 156 118 200 155 183 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+City: 2 bonus 785 tempo 39
+City: 6 bonus 594 tempo 39
+City: 7 bonus 466 tempo 29
+City: 1 bonus 702 tempo 20
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+passageiro 23 com origem 6, destino: 7 custo max: 378 tempo max: 443
+passageiro 25 com origem 6, destino: 7 custo max: 367 tempo max: 401
+passageiro 50 com origem 7, destino: 0 custo max: 334 tempo max: 392
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 6
+Custo: 546
+Bonus: 3462
+Tempo: 1339
+ 
+
+Rota: 0 1 2 5 3 6 7 
+custos da rota: 101 161 107 200 120 202 132 
+Tempos da rota: 183 147 224 126 118 186 134 
+Cities_colected: 
+City: 1 bonus 702 tempo 20
+City: 2 bonus 785 tempo 39
+City: 5 bonus 915 tempo 24
+City: 6 bonus 594 tempo 39
+City: 7 bonus 466 tempo 29
+passageiro 15 com origem 5, destino: 6 custo max: 364 tempo max: 427
+passageiro 20 com origem 5, destino: 6 custo max: 365 tempo max: 340
+passageiro 23 com origem 6, destino: 7 custo max: 378 tempo max: 443
+passageiro 25 com origem 6, destino: 7 custo max: 367 tempo max: 401
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 6
+Custo: 587
+Bonus: 3462
+Tempo: 1269
+ 
+
+Rota: 0 2 1 5 3 6 7 
+custos da rota: 108 161 223 200 120 202 132 
+Tempos da rota: 158 147 172 126 118 186 134 
+Cities_colected: 
+City: 2 bonus 785 tempo 39
+City: 1 bonus 702 tempo 20
+City: 5 bonus 915 tempo 24
+City: 6 bonus 594 tempo 39
+City: 7 bonus 466 tempo 29
+passageiro 15 com origem 5, destino: 6 custo max: 364 tempo max: 427
+passageiro 20 com origem 5, destino: 6 custo max: 365 tempo max: 340
+passageiro 23 com origem 6, destino: 7 custo max: 378 tempo max: 443
+passageiro 25 com origem 6, destino: 7 custo max: 367 tempo max: 401
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 6
+Custo: 710
+Bonus: 3462
+Tempo: 1192
+ 
+
+Rota: 0 6 5 7 4 
+custos da rota: 101 117 168 114 150 
+Tempos da rota: 123 222 174 102 200 
+Cities_colected: 
+City: 6 bonus 594 tempo 39
+City: 5 bonus 915 tempo 24
+City: 4 bonus 829 tempo 33
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 2
+Custo: 474
+Bonus: 2338
+Tempo: 917
+ 
+
+Rota: 0 5 1 6 4 7 
+custos da rota: 240 223 234 194 114 132 
+Tempos da rota: 152 172 163 170 102 134 
+Cities_colected: 
+City: 5 bonus 915 tempo 24
+City: 1 bonus 702 tempo 20
+City: 4 bonus 829 tempo 33
+passageiro 6 com origem 0, destino: 5 custo max: 351 tempo max: 305
+passageiro 9 com origem 0, destino: 5 custo max: 367 tempo max: 235
+passageiro 15 com origem 5, destino: 6 custo max: 364 tempo max: 427
+passageiro 17 com origem 5, destino: 6 custo max: 343 tempo max: 402
+passageiro 23 com origem 6, destino: 7 custo max: 378 tempo max: 443
+passageiro 25 com origem 6, destino: 7 custo max: 367 tempo max: 401
+passageiro 47 com origem 7, destino: 0 custo max: 353 tempo max: 384
+passageiro 53 com origem 7, destino: 0 custo max: 366 tempo max: 429
+Passageiros embarcados: 8
+Custo: 379
+Bonus: 2446
+Tempo: 970
+ 
+
+Rota: 0 6 5 3 2 
+custos da rota: 101 117 200 136 108 
+Tempos da rota: 123 222 126 151 158 
+Cities_colected: 
+City: 6 bonus 594 tempo 39
+City: 5 bonus 915 tempo 24
+City: 2 bonus 785 tempo 39
+Passageiros embarcados: 0
+Custo: 662
+Bonus: 2294
+Tempo: 882
+ 
